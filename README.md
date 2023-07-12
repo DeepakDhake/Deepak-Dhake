@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdhake&label=Profile%20views&color=0e75b6&style=flat" alt="deepakdhake" /> </p>
 
-- 🔭 I’m currently working on **on expanding my coding skills**
+- 🔭 I’m currently working on **expanding my coding skills**
 
 - 🌱 I’m currently learning **Comprehensive Web Development**
 
