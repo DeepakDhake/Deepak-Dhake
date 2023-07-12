@@ -6,6 +6,19 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DeepakDhake/DeepakDhake/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepakDhake&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakDhake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://media.tenor.com/ITc1hNBSH_wAAAAC/coding-typing.gif"  />
 
 ###
@@ -68,5 +81,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/DeepakDhake/DeepakDhake/output/snake.svg" alt="Snake animation" />
 
 ###
