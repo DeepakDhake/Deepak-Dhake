@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" width="100%" height="200">
 <h1 align="center">Hi 👋, I'm Deepak Dhake</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
 
