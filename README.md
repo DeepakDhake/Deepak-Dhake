@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" width="100%" height="200">
 <h1 align="center">Hi 👋, I'm Deepak Dhake</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
+<img align="right" width="375" height = "320" src="https://github.com/DeepakDhake/DeepakDhake/blob/main/coding-typing.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdhake&label=Profile%20views&color=0e75b6&style=flat" alt="deepakdhake" /> </p>
 
