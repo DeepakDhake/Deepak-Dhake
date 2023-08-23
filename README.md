@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Comprehensive Web Development**
 
-- 💬 Ask me about **Java, mySql, JavaScript, Express-Js**
+- 💬 Ask me about **Java, mySql, JavaScript, Express-Js, SpringBoot**
 
 - 📫 How to reach me **workdeepak9@gmail.com**
 
